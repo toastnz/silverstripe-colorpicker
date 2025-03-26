@@ -18,11 +18,11 @@
     "issues": "https://github.com/tractorcow/silverstripe-colorpicker/issues"
   },
   "require": {
-    "silverstripe/framework": "^4.0 || ^5.0"
+    "silverstripe/framework": "^6"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "4.0.x-dev"
+      "dev-master": "6.0.x-dev"
     },
     "expose": [
       "client"
