@@ -22,7 +22,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "6.0.x-dev"
+      "dev-master": "6.0.0-beta1-dev"
     },
     "expose": [
       "client"
