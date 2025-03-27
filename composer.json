@@ -21,6 +21,9 @@
     "silverstripe/framework": "^6"
   },
   "extra": {
+    "branch-alias": {
+      "dev-master": "ss6-dev"
+    },
     "expose": [
       "client"
     ]
